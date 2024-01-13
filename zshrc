@@ -1,8 +1,6 @@
 # --------------------
 # Load my custom configs
 # --------------------
-source ~/.config/zsh/vi.zsh
-source ~/.config/zsh/navi.zsh
 
 setopt HIST_IGNORE_ALL_DUPS
 setopt CORRECT
